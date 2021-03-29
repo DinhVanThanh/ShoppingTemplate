@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "da7sm0CA0rvuff7DADtvxXybOfp8+h5LbakDliWC1XYMC/Qu56CJjVgW9V46/zwwPayfTjYt4AKkH6C+6YPpJQ==",
+  "success": true,
+  "projectFilePath": "D:\\DinhVanThanh\\Github\\Template\\ShoppingTemplate\\ShoppingTemplate\\ShoppingTemplate\\ShoppingTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
